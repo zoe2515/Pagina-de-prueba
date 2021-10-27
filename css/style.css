@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.contenedor{
+    width: 90%;
+    background-color: yellow;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+}
+.menu a{
+text-decoration: none;
+font-family: fantasy;
+font-size: 1.2em;
+padding: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
